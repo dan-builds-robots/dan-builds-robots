@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 - HTML, CSS, & Javascript
 - C++
 - Python (Web Automation)
-- Python (machine learning)
+- Python (machine learning)  
 
+<!--
 <br />
+-->
 
 ### You can check me out here: 
 - LinkedIn: https://www.linkedin.com/in/daniel-ajayi-112a461b1/
