@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - Major in Computer Science and Electrical Engineering with a minor in Mechanical Engineering
 - Optimal learning style: I'm quite versatile; autodidact or team 😛
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a virtuoso multi-instrumentalist
+- ⚡ Fun fact: I am a virtuoso multi-instrumentalist  
 
+<!-- 
 <br />
-
+-->
+  
 ### Languages/Skills:
 - React Native
 - Python
