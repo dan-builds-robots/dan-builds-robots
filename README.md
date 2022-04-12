@@ -45,4 +45,4 @@ i like to make stuff 🤖 💻 🪛
 ### You can check me out here: 
 - LinkedIn: https://www.linkedin.com/in/daniel-ajayi-112a461b1/
 - YouTube: https://www.youtube.com/danielajayi
-- Web Development: http://dbw.epizy.com/
+- Personal Site: https://dan-builds-robots.github.io/personal-site2/
