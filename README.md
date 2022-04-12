@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ### hi its dan 👋🏾
-i like to make stuff 🤖 💻 🪛
+i like to make stuff 🤖 💻 
 
 ## about me
 
