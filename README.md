@@ -19,8 +19,8 @@ i like to make stuff 🤖 💻
 
 ## about me
 
-- MIT class of 2025
-- Major in Computer Science and Electrical Engineering with a minor in Mechanical Engineering
+- 🎒 MIT class of 2025
+- 🧑🏽‍💻💻 Major in Computer Science and Electrical Engineering with a minor in Mechanical Engineering
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a virtuoso multi-instrumentalist  
 
