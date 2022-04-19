@@ -21,8 +21,7 @@ i like to make stuff 🤖 💻
 
 - MIT class of 2025
 - Major in Computer Science and Electrical Engineering with a minor in Mechanical Engineering
-- Optimal learning style: I'm quite versatile; autodidact or team 😛
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am a virtuoso multi-instrumentalist  
 
 <!-- 
