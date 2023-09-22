@@ -3,7 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -27,15 +28,19 @@ i like to make stuff 🤖 💻
 <!-- 
 <br />
 -->
+
+🔭 I’m currently working on ...
+https://ossy.ai, a live transcription tool + AI tool for students to use during lecture
   
 ### Languages/Skills:
 - React Native
+- Javascript
+- React
 - Python
 - Java
-- HTML, CSS, & Javascript
+- Gherkin
+- HTML & CSS
 - C++
-- Python (Web Automation)
-- Python (machine learning)  
 
 <!--
 <br />
@@ -43,5 +48,5 @@ i like to make stuff 🤖 💻
 
 ### You can check me out here: 
 - LinkedIn: https://www.linkedin.com/in/daniel-ajayi-112a461b1/
-- Personal Site: https://dan-builds-robots.github.io/personal-site2/
+- Personal Site: http://www.dajayi.com
 - YouTube: https://www.youtube.com/danielajayi
