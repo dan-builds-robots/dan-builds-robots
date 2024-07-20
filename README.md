@@ -21,8 +21,7 @@ i like to make stuff 🤖 💻
 ## about me
 
 - 🎒 MIT class of 2025
-- 🧑🏽‍💻 Major in Computer Science and Electrical Engineering with a minor in Mechanical Engineering
-- 😄 Pronouns: he/him/his
+- 🧑🏽‍💻 Major in Computer Science and Electrical Engineering
 - ⚡ Fun fact: I am a virtuoso multi-instrumentalist  
 
 <!-- 
@@ -35,6 +34,7 @@ https://ossy.ai, a live transcription tool + AI tool for students to use during 
 ### Languages/Skills:
 - React Native
 - Javascript
+- Typescript
 - React
 - Python
 - Java
