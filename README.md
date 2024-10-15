@@ -21,8 +21,7 @@ i like to make stuff 🤖 💻
 ## about me
 
 - 🎒 MIT class of 2025
-- 🧑🏽‍💻 Major in Computer Science and Electrical Engineering
-- ⚡ Fun fact: I am a virtuoso multi-instrumentalist  
+- 🧑🏽‍💻 Major in Computer Science
 
 <!-- 
 <br />
@@ -32,15 +31,15 @@ i like to make stuff 🤖 💻
 https://ossy.ai, a live transcription tool + AI tool for students to use during lecture
   
 ### Languages/Skills:
-- React Native
 - Javascript
 - Typescript
 - React
+- React Native
+- C++
 - Python
 - Java
 - Gherkin
 - HTML & CSS
-- C++
 
 <!--
 <br />
