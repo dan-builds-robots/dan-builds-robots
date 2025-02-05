@@ -28,7 +28,7 @@ i like to make stuff 🤖 💻
 -->
 
 🔭 I’m currently working on ...
-https://ossy.ai, a live transcription tool + AI tool for students to use during lecture
+https://sorce.jobs
   
 ### Languages/Skills:
 - Javascript
