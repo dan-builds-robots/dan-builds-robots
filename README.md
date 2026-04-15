@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 ### hi its dan 👋🏾
-i like to build 🤖 💻 
+i like building 🤖 💻 
 
 ## about me
 
