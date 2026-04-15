@@ -33,6 +33,7 @@ https://sorce.jobs
 ### Languages/Skills:
 - Javascript
 - Typescript
+- Golang
 - React
 - React Native
 - C++
